@@ -26,6 +26,7 @@ body{
     /* background:var(--bg-color);
     color:var(--text-color); */
     background-color: rgb(14, 6, 58);
+    overflow-x: hidden;
 }
 .header{
     position: fixed;
@@ -1161,3 +1162,4 @@ section{
         width: 90vw;
     }
 }
+
