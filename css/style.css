@@ -1155,6 +1155,13 @@ section{
         margin: 10px 20px;
         font-size:30px ;
     }
+    .box {
+        position: relative;
+        bottom: 80px;
+        left: 10px;
+        width: 250px;
+        height: 250px;
+    }
 }
 
 @media(max-width:365px){
@@ -1162,6 +1169,7 @@ section{
         width: 90vw;
     }
 }
+
 
 
 
