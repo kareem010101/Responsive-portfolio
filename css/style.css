@@ -1128,7 +1128,7 @@ section{
 
     .box {
         position: relative;
-        bottom: 80px;
+        bottom: 60px;
         left: 20px;
         width: 250px;
         height: 250px;
@@ -1162,4 +1162,5 @@ section{
         width: 90vw;
     }
 }
+
 
