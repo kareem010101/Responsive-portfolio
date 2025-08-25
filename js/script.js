@@ -118,7 +118,7 @@ const sr = ScrollReveal ({
   sr.reveal('.home-content',{ delay:350, origin:'left' })
   sr.reveal('.box',{ delay:350, origin:'right' })
   sr.reveal('.social-media',{ delay:330, origin:'bottom' })
-  sr.reveal('.btn',{ delay:320, origin:'bottom' })
+  sr.reveal('.btn',{ delay:320, origin:'right' })
 
   sr.reveal('.about-img',{ delay:350, origin:'left' })
   sr.reveal('.about-content',{ delay:350, origin:'right' })
@@ -134,6 +134,7 @@ const sr = ScrollReveal ({
 
 
   
+
 
 
 
